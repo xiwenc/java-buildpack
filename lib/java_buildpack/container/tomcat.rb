@@ -43,7 +43,7 @@ module JavaBuildpack
           @droplet.java_home.as_env_var,
           @droplet.java_opts.as_env_var,
           "HELLO=$(bash ./datadog-agent/bin/agent start)",
-          "PIE=$(bash 'echo hello > ./datadog-agent/hello')",
+          "PIE=$(bash 'echo hello > ./hello')",
           'exec',
           "$PWD/#{(@droplet.sandbox + 'bin/catalina.sh').relative_path_from(@droplet.root)}",
           'run'
