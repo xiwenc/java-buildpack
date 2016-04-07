@@ -224,6 +224,7 @@ error_trap() {
     else
         tail -n 5 "$LOGFILE" | tee -a "$LOGFILE" >&3
     fi
+    cat /tmp/*/pyyaml
     print_console "###"
 
     print_console
