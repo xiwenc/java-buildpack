@@ -1,4 +1,4 @@
-#!/home/xcheng/.datadog-agent/venv/bin/python
+#!/home/vcap/app/datadog-agent/venv/bin/python
 # Copyright (c) 2011 Jim Browne http://www.42lines.net
 # Borrows heavily from boto/bin/list_instances which has no attribution
 #

@@ -1,4 +1,4 @@
-#!/home/xcheng/.datadog-agent/venv/bin/python
+#!/home/vcap/app/datadog-agent/venv/bin/python
 # Author: Chris Moyer
 #
 # cfadmin is similar to sdbadmin for CloudFront, it's a simple

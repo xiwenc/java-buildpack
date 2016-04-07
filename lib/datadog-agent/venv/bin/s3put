@@ -1,4 +1,4 @@
-#!/home/xcheng/.datadog-agent/venv/bin/python
+#!/home/vcap/app/datadog-agent/venv/bin/python
 # Copyright (c) 2006,2007,2008 Mitch Garnaat http://garnaat.org/
 #
 # Permission is hereby granted, free of charge, to any person obtaining a

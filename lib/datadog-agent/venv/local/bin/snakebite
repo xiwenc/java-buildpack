@@ -1,4 +1,4 @@
-#!/home/xcheng/.datadog-agent/venv/bin/python
+#!/home/vcap/app/datadog-agent/venv/bin/python
 # Copyright (c) 2013 Spotify AB
 #
 # Licensed under the Apache License, Version 2.0 (the "License"); you may not
